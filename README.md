@@ -30,7 +30,7 @@ Alternatively, you can also access the text editor [here](https://lapuzshawn.git
 
 1. Launch the text editor in your web browser by: running "npm start", then opennavigate to "http://localhost:3000/"
 2. Click on the "New File" button to create a new text file or select an existing file to edit.
-3. Use the toolbar buttons or keyboard shortcuts to perform text editing actions (e.g., copy, paste, undo, redo).
+3. Use keyboard shortcuts to perform text editing actions (e.g., copy, paste, undo, redo).
 4. (Optional usage: pseudo coding when your code fails to compile after 253 failed attempts) (see screenshot below)
 
 
